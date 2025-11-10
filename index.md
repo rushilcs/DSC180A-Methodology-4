@@ -1,7 +1,7 @@
 ## Introduction
-Name: Rushil Chandrupatla
-Email: ruchandrupatla@ucsd.edu
-Section: A11
+Name: Rushil Chandrupatla<br>
+Email: ruchandrupatla@ucsd.edu<br>
+Section: A11<br>
 Mentor: Arya Mazumdar
 
 ### Q2 Project Answers
